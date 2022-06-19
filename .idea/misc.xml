@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Folder D/Kuliah/PAM/Project/RentCamera/app/src/main/res/drawable/rounded2.xml" value="0.1" />
+        <entry key="..\:/Folder D/Kuliah/PAM/Project/RentCamera/app/src/main/res/drawable/roundedborder.xml" value="0.1" />
+        <entry key="..\:/Folder D/Kuliah/PAM/Project/RentCamera/app/src/main/res/layout/activity_checkout.xml" value="0.27447916666666666" />
+        <entry key="..\:/Folder D/Kuliah/PAM/Project/RentCamera/app/src/main/res/layout/activity_daftar.xml" value="0.2128623188405797" />
+        <entry key="..\:/Folder D/Kuliah/PAM/Project/RentCamera/app/src/main/res/layout/activity_info.xml" value="0.27447916666666666" />
+        <entry key="..\:/Folder D/Kuliah/PAM/Project/RentCamera/app/src/main/res/layout/activity_keranjang.xml" value="0.27447916666666666" />
+        <entry key="..\:/Folder D/Kuliah/PAM/Project/RentCamera/app/src/main/res/layout/activity_lihat_data.xml" value="0.264" />
+        <entry key="..\:/Folder D/Kuliah/PAM/Project/RentCamera/app/src/main/res/layout/activity_main.xml" value="0.2128623188405797" />
+        <entry key="..\:/Folder D/Kuliah/PAM/Project/RentCamera/app/src/main/res/layout/activity_masuk.xml" value="0.152" />
+        <entry key="..\:/Folder D/Kuliah/PAM/Project/RentCamera/app/src/main/res/layout/activity_pesanan.xml" value="0.264" />
+        <entry key="..\:/Folder D/Kuliah/PAM/Project/RentCamera/app/src/main/res/layout/row_user.xml" value="0.2128623188405797" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

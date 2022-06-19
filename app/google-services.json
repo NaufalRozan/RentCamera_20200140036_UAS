@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "54403161318",
+    "project_id": "rentcamera-853eb",
+    "storage_bucket": "rentcamera-853eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54403161318:android:63656de9f4b82225c92f27",
+        "android_client_info": {
+          "package_name": "com.example.rentcamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54403161318-7ld5olit50cbnn98h7balcqmtl97t81s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS8MeTYnIPerXq_IRzAIDVQiEoL15GQaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54403161318-7ld5olit50cbnn98h7balcqmtl97t81s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
