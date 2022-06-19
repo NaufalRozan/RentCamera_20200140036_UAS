@@ -39,7 +39,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Nama "
+                android:text="Nama                      : "
                 android:textColor="@color/black"/>
             <TextView
                 android:layout_width="wrap_content"
@@ -54,7 +54,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Kamera "
+                android:text="Kamera                   : "
                 android:textColor="@color/black"/>
             <TextView
                 android:layout_width="wrap_content"
@@ -69,7 +69,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Lama sewa/hari : "
+                android:text="Lama sewa/hari    : "
                 android:textColor="@color/black"/>
             <TextView
                 android:layout_width="wrap_content"
@@ -84,7 +84,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Total Rp. "
+                android:text="Total                          Rp. "
                 android:textColor="@color/black"/>
             <TextView
                 android:layout_width="wrap_content"
@@ -98,8 +98,7 @@
             android:layout_height="100dp"
             android:layout_gravity="center"
             android:layout_margin="15dp"
-            android:src="@drawable/ceklis">
-        </ImageView>
+            android:src="@drawable/ceklis"></ImageView>
 
         <Button
             android:id="@+id/home"
